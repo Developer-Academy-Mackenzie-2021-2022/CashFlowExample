@@ -14,4 +14,4 @@ Para alterar as cores das barras no fluxo de caixa, basta alterar os parâmetros
 ## Setando os valores, tanto do fluxo de caixa, quanto dos anos
 Para alterar os valores dos eixos X e Y, basta inserir, em Float, os fluxos de caixa que deseja, respectivamente. O mesmo se repete para o tempo decorrido, porém em String.
 
-<img width="929" alt="Captura de Tela 2021-11-05 às 14 05 38" src="https://user-images.githubusercontent.com/83611462/140550991-5f71b0a6-a843-4208-b26a-97770b259a77.png">
+<img width="929" alt="Captura de Tela 2021-11-05 às 14 05 38" src="https://user-images.githubusercontent.com/83611462/140550991-5f71b0a6-a843-4208-b26a-97770b259a77.png" height="400"/>
